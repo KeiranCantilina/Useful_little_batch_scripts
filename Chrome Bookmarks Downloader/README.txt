@@ -1,0 +1,2 @@
+Script for backing up webpages listed in a bookmarks html file.
+Based on a SuperUser thread: https://superuser.com/questions/590642/how-can-i-download-the-pages-referenced-by-me-bookmarks-as-html-files

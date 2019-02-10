@@ -1,0 +1,1 @@
+wget --recursive --level 1 --page-requisites --convert-links --force-html --input-file bookmarks_2_10_19.html
